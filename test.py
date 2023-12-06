@@ -38,3 +38,5 @@ class MyClass:
                 
 my_object = MyClass("John", 30)
 
+my_object_1 = MyClass("Sean", 80)
+
